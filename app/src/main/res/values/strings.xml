@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScrollStopper</string>
+
+    <string name="accessibility_service_description">
+        Detects app navigation and content transitions to prevent algorithmic scrolling.
+    </string>
+</resources>
