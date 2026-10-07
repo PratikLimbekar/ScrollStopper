@@ -128,15 +128,12 @@ Currently it works on Instagram Application only, and that too on Version 451.0.
 
 ---
 
-## Privacy
-
 ScrollStopper uses Android's Accessibility Service API, which provides access to information about interactions with other applications.
 As the application runs completely offline and its code being available publicly, privacy of the user is maintained. Hell, it is the reason I made this app in the first place.
----
 
 ## 👨‍💻 Author
 
-**Pratik Limbekar**
+Pratik Limbekar
 
 * GitHub: [@PratikLimbekar](https://github.com/PratikLimbekar)
 * LinkedIn: [Pratik Limbekar](https://www.linkedin.com/in/pratik-limbekar/)
