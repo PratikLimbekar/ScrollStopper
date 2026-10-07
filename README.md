@@ -5,9 +5,10 @@ identify which application is currently being interacted with, and use that info
 
 The idea is simple:
 
-**You open Instagram → you start scrolling → ScrollStopper notices → eventually, it intervenes.**
+You open Instagram → you start scrolling → ScrollStopper notices → eventually, it intervenes. 
 
 Currently in progress. But does what is needed from my side.
+
 ---
 
 ## Current Features
@@ -32,7 +33,7 @@ Currently in progress. But does what is needed from my side.
 
 Built in Kotlin using the Android Studio and AccessibilityService
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ScrollStopper/
@@ -113,7 +114,7 @@ Once enabled, the service can begin receiving accessibility events from the syst
 
 ---
 
-## 💡 Why Build This?
+## Why Build This?
 
 Most screen-time tools tell you **how much** time you spent on an application.
 
@@ -131,7 +132,7 @@ Currently it works on Instagram Application only, and that too on Version 451.0.
 ScrollStopper uses Android's Accessibility Service API, which provides access to information about interactions with other applications.
 As the application runs completely offline and its code being available publicly, privacy of the user is maintained. Hell, it is the reason I made this app in the first place.
 
-## 👨‍💻 Author
+## Author
 
 Pratik Limbekar
 
