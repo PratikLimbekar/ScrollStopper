@@ -86,7 +86,7 @@ Connect an Android device or start an emulator, then run the `app` configuration
 
 ---
 
-### You may also install the APK file provided in the repository to use the application. You must enable the Android Accessibility Service from your devices' settings for it
+You may also install the APK file provided in the repository to use the application. You must enable the Android Accessibility Service from your devices' settings for it
 to work as intended. Steps to do that may vary from device to device, but a basic plan is as follows:
 
 ## Enabling the Accessibility Service
